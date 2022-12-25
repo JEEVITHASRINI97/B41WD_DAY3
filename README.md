@@ -1,1 +1,2 @@
-# B41WD_DAY3
+# B42WD_DAY3
+JSON iterate for all loops
